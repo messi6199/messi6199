@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub profile!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=messi6199&show_icons=true&theme=tokyonight" width="400" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=messi6199&show_icons=true&theme=tokyonight" width="400" /> -->
 
 ### 👨‍💻 About Me
 
